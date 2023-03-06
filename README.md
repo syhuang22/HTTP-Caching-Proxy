@@ -9,5 +9,5 @@ multiple	 threads. <br>
 Can produce	 a	 log	 (in	 /var/log/erss/proxy.log)	 which	 contains	
 information	about	each	 request.
 
-To begin, run the belowe command in HTTP-Caching-Proxy directory<br>
+To begin, run the below command in HTTP-Caching-Proxy directory<br>
 `sudo docker-compose up`
