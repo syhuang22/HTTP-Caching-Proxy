@@ -11,7 +11,7 @@ An http	proxy – a	 server	 whose	 job	 it	 is	 to	 forward
 * Prints useful log messages to help diagnose issues
 
 ## Getting Started 
-1. Clone the repository: `git clone https://github.com/yourusername/httpproxy.git`
+1. Clone the repository: `git clone git@github.com:syhuang22/HTTP-Caching-Proxy.git`
 2. Run the below command in HTTP-Caching-Proxy directory<br>
 `sudo docker-compose up`
 
